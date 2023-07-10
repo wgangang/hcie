@@ -18,12 +18,19 @@
 
 **实验规划**
 
+> - 北京四区域
+> 
 > - vpc-name: vpc-as(192.168.0.0./16)
 > 
 > - 子网: subnet-web(192.168.1.0/24)
 >
 > - 节点规格：4U16G
 >
+> - Mariabd(pwd:hcie@huawei.com,dbname:nextcloud)
+>
+> - nextcloud(db_host,db_user,db_pwd,db_name) 
+>
+
 
 
 ## 实验二（云上可靠性实验）
